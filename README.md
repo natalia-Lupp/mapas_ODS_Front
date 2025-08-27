@@ -2,12 +2,17 @@
 O MapasODS é um projeto em desenvolvimento que visa criar uma ferramenta de mensuração de dados para facilitar o diagnóstico do consumo de água de instituições. O objetivo é atender à Agenda 2030 das ODS (Objetivos de Desenvolvimento Sustentável) propostas pela ONU.
 
 Link do repositorio do projeto: https://github.com/natalia-Lupp/mapas_ODS_Front
+
 Link para Wiki do Projeto: https://github.com/natalia-Lupp/mapas_ODS_Front/wiki
 
 ## 📝 Design System
 Todas a informações do projeto estão armazenadas dentro da pagina wiki e da pagina projetos do proprio repossitorio do github.
 
 Link para o escopo do projeto: https://github.com/natalia-Lupp/mapas_ODS_Front/wiki/Descri%C3%A7%C3%A3o
+
+Link para a wiki do projeto: https://github.com/natalia-Lupp/mapas_ODS_Front/wiki
+
+Link para as decisõesde de design system: 
 
 Link para o repositorio do projeto: https://github.com/natalia-Lupp/mapas_ODS_Front
 
@@ -19,6 +24,9 @@ Link com informações dos membros: https://github.com/natalia-Lupp/mapas_ODS_Fr
 ## 🎨 Prototipo
 
 Link do protitipo Figma:
+
+## 🗎 Endereço de Deploy - GitHub Pages
+
 
 ## 📖 Checklist 
 
