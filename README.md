@@ -1,5 +1,5 @@
 # mapas_ODS_Front
-O MapasODS é um projeto em desenvolvimento que visa criar uma ferramenta de mensuração de dados para facilitar o diagnóstico do consumo de água de instituições. O objetivo é atender à Agenda 2030 das ODS (Objetivos de Desenvolvimento Sustentável) propostas pela ONU.
+O MapasODS é um projeto em desenvolvimento que visa criar uma ferramenta de mensuração de dados para facilitar o diagnóstico do consumo de água de instituição UTFPR Campus Guarapuava. O objetivo é atender à Agenda 2030 das ODS (Objetivos de Desenvolvimento Sustentável) propostas pela ONU.
 
 Link do repositorio do projeto: https://github.com/natalia-Lupp/mapas_ODS_Front
 
