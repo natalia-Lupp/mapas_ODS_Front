@@ -1,16 +1,26 @@
 # mapas_ODS_Front
+
+## 📑 Objetivo
 O MapasODS é um projeto em desenvolvimento que visa criar uma ferramenta de mensuração de dados para facilitar o diagnóstico do consumo de água de instituição UTFPR Campus Guarapuava. O objetivo é atender à Agenda 2030 das ODS (Objetivos de Desenvolvimento Sustentável) propostas pela ONU.
 
+---
 
-Link para Wiki do Projeto: https://github.com/natalia-Lupp/mapas_ODS_Front/wiki
+## 🔗 Navegação
+Para conhecer melhor nosso projeto, navegue por:
 
+1. 📖 [Wiki com documentação e mais detalhes do Projeto](https://github.com/natalia-Lupp/mapas_ODS_Front/wiki)
+   
+2. 🤝 [Membros](#-membros)
+   
+3. 📖 [Checklist](#-checklist)
 
+---
 
-Link para o Kanban de atividade do projeto: https://github.com/users/natalia-Lupp/projects/3 
+## 💡 Sobre o Projeto
+Texto de apresentação...
 
-## 🤝 Membros do Projeto
-
-Mantenedores e criadores do projeto Mapas_ODS_Front
+## 🤝 Membros
+Mantenedores e criadores do projeto Mapas_ODS_Front  
 Alunos de Sistemas para Internet da UTFPR - campus Guarapuava.
 
 <table>
@@ -25,6 +35,8 @@ Alunos de Sistemas para Internet da UTFPR - campus Guarapuava.
     </td>
   </tr>
 </table>
+
+## 📖 Checklist 
 
 
 ## 📖 Checklist 
