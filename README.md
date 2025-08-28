@@ -1,31 +1,30 @@
 # mapas_ODS_Front
 O MapasODS é um projeto em desenvolvimento que visa criar uma ferramenta de mensuração de dados para facilitar o diagnóstico do consumo de água de instituição UTFPR Campus Guarapuava. O objetivo é atender à Agenda 2030 das ODS (Objetivos de Desenvolvimento Sustentável) propostas pela ONU.
 
-Link do repositorio do projeto: https://github.com/natalia-Lupp/mapas_ODS_Front
 
 Link para Wiki do Projeto: https://github.com/natalia-Lupp/mapas_ODS_Front/wiki
 
-## 📝 Design System
-Todas a informações do projeto estão armazenadas dentro da pagina wiki e da pagina projetos do proprio repossitorio do github.
 
-Link para o escopo do projeto: https://github.com/natalia-Lupp/mapas_ODS_Front/wiki/Descri%C3%A7%C3%A3o
-
-Link para a wiki do projeto: https://github.com/natalia-Lupp/mapas_ODS_Front/wiki
-
-Link para as decisõesde de design system: 
-
-Link para o repositorio do projeto: https://github.com/natalia-Lupp/mapas_ODS_Front
 
 Link para o Kanban de atividade do projeto: https://github.com/users/natalia-Lupp/projects/3 
 
 ## 🤝 Membros do Projeto
-Link com informações dos membros: https://github.com/natalia-Lupp/mapas_ODS_Front/wiki/Mantenedores
 
-## 🎨 Prototipo
+Mantenedores e criadores do projeto Mapas_ODS_Front
+Alunos de Sistemas para Internet da UTFPR - campus Guarapuava.
 
-Link do protitipo Figma:
-
-## 🗎 Endereço de Deploy - GitHub Pages
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8378a87e-7288-438e-be38-85e2eecfee37" width="150" alt="Natalia Rodrigues Lupp"><br>
+      <a href="https://github.com/natalia-Lupp"><strong>Natalia Rodrigues Lupp</strong></a>
+    </td>
+     <td align="center">
+      <img src="https://github.com/user-attachments/assets/3c0a0bcf-11cf-4e57-813a-ccd5c20e1c45" width="200" alt="Peterson"><br>
+      <a href="https://github.com/Pett97"><strong>Peterson</strong></a>
+    </td>
+  </tr>
+</table>
 
 
 ## 📖 Checklist 
