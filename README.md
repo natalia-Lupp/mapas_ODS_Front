@@ -8,16 +8,14 @@ O MapasODS é um projeto em desenvolvimento que visa criar uma ferramenta de men
 ## 🔗 Navegação
 Para conhecer melhor nosso projeto, navegue por:
 
-1. 📖 [Wiki com documentação e mais detalhes do Projeto](https://github.com/natalia-Lupp/mapas_ODS_Front/wiki)
+1. 📖 [Wiki da documentação e mais detalhes do Projeto como prototipo de telas e informações de database](https://github.com/natalia-Lupp/mapas_ODS_Front/wiki)
    
 2. 🤝 [Membros](#-membros)
    
 3. 📖 [Checklist](#-checklist)
 
----
+4. 🗓️ [Kanban de atividades](https://github.com/users/natalia-Lupp/projects/3)
 
-## 💡 Sobre o Projeto
-Texto de apresentação...
 
 ## 🤝 Membros
 Mantenedores e criadores do projeto Mapas_ODS_Front  
@@ -35,8 +33,6 @@ Alunos de Sistemas para Internet da UTFPR - campus Guarapuava.
     </td>
   </tr>
 </table>
-
-## 📖 Checklist 
 
 
 ## 📖 Checklist 
