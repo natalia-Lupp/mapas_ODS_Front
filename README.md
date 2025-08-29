@@ -29,7 +29,7 @@ Alunos de Sistemas para Internet da UTFPR - campus Guarapuava.
     </td>
      <td align="center">
       <img src="https://github.com/user-attachments/assets/3c0a0bcf-11cf-4e57-813a-ccd5c20e1c45" width="200" alt="Peterson"><br>
-      <a href="https://github.com/Pett97"><strong>Peterson</strong></a>
+      <a href="https://github.com/Pett97"><strong>Peterson Henrique de Padua</strong></a>
     </td>
   </tr>
 </table>
