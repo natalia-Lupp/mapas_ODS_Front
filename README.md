@@ -28,7 +28,7 @@ Alunos de Sistemas para Internet da UTFPR - campus Guarapuava.
       <a href="https://github.com/natalia-Lupp"><strong>Natalia Rodrigues Lupp</strong></a>
     </td>
      <td align="center">
-      <img src="https://github.com/user-attachments/assets/3c0a0bcf-11cf-4e57-813a-ccd5c20e1c45" width="200" alt="Peterson"><br>
+      <img src="https://avatars.githubusercontent.com/u/109447375?v=4" width="200" alt="Peterson"><br>
       <a href="https://github.com/Pett97"><strong>Peterson Henrique de Padua</strong></a>
     </td>
   </tr>
