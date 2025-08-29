@@ -58,7 +58,7 @@ migrate((app) => {
         "id": "number2753955505",
         "max": null,
         "min": null,
-        "name": "consumo_por_pessoa",
+        "name": "consumo-por-pessoa",
         "onlyInt": false,
         "presentable": false,
         "required": false,
